@@ -4,8 +4,55 @@
     box-sizing: border-box;
 }
 body {background-color: bisque;}
-header,
+
+header {
+    font-family:Verdana, Geneva, Tahoma, sans-serif 
+    background-color: blue;
+}
+
 footer {
+    font-family: cursive;
+    background-color: rosybrown;
+}
+
+header,
+footer{
+    flex-direction: row;
     text-align: end;
     margin: 50px;
 }
+ 
+header p {
+    border: solid olivedrab;
+    display: inline-block;
+    flex: wrap;
+    background-color: greenyellow;
+}
+
+main {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+section {
+    position: relative;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        margin: 24px 0;
+        padding: 5px;
+        gap: 16px;
+        border: 5px solid gray;
+}
+    
+    header p:hover {
+        background-color: brown;
+    }
+    section:hover {
+        background-color: rgb(134, 165, 42);
+    }
+
+@media screen and (min-width: 769px) {
+    section {width: 33.333%;} 
+     }
