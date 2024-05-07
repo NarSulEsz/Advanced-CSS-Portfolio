@@ -16,18 +16,26 @@ aside p {
     margin: 30px;
 }
 
+
 footer {
-    font-family: cursive;
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 12%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     background-color: rosybrown;
+    
 }
 
+/* style that is common for header and footer */
 header,
 footer{
     flex-direction: row;
     text-align: end;
     margin: 50px;
+    align-items: center;
 }
  
+/* special style for the paragraphs of the header */
 header p {
     border: solid olivedrab;
     display: inline-block;
@@ -53,15 +61,19 @@ section {
         background-color: aquamarine;
 }
     
+/* added pseudoclass to the paragraphs of the main */
     header p:hover {
         background-color: brown;
-        
     }
+
+
+        /* added pseudoclass for sections of the main */   
     main section:hover {
         background-color: rgb(134, 165, 42);
         text-size: 150%;
         margin: 0px 0;
         padding: 15px;
+        box-shadow: 60px -16px yellowgreen;
     }
     /* added CSS formatting ot sections of aside */
     aside section{
@@ -76,11 +88,10 @@ section {
         text-size: 120%;
         margin: 0px 0;
         padding: 15px;
+        box-shadow: 60px -16px teal; 
+    }
 
-
-
-
-
+/* adaptation to the size of the screen */
 @media screen and (min-width: 769px) {
     section {width: 33.333%;} 
      }
