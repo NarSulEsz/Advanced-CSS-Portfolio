@@ -36,5 +36,6 @@ No special instructions needed
 This is link of repository: https://github.com/NarSulEsz/Advanced-CSS-Portfolio 
 This is link of web-site itself: https://narsulesz.github.io/Advanced-CSS-Portfolio/
 
-Screeshots:
-![alt text](<Screenshot 2024-05-07 134909-1.png>) ![alt text](<Screenshot 2024-05-07 134834-1.png>) ![alt text](<Screenshot 2024-05-07 134858-1.png>)
+![Screenshot 2024-05-07 134909](https://github.com/NarSulEsz/Advanced-CSS-Portfolio/assets/162845160/a3ab8a22-1b78-4bf9-927c-a7770ace4c53)
+![Screenshot 2024-05-07 134834](https://github.com/NarSulEsz/Advanced-CSS-Portfolio/assets/162845160/6a4c5b34-3c1c-4663-97c4-1546265952cb)
+![Screenshot 2024-05-07 134858](https://github.com/NarSulEsz/Advanced-CSS-Portfolio/assets/162845160/f4f7abfc-fbd2-43d8-bd84-8ab1176f1881)
