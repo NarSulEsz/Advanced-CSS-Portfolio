@@ -63,10 +63,19 @@ section {
         margin: 0px 0;
         padding: 15px;
     }
-
+    /* added CSS formatting ot sections of aside */
     aside section{
         background-color: grey;
+        border: solid;
+        border-color: blueviolet;
+        flex-direction: row;
     }
+    /* added pseudo class to sections of aside */
+    aside section:hover {
+        background-color: rgb(165, 42, 165);
+        text-size: 120%;
+        margin: 0px 0;
+        padding: 15px;
 
 
 
