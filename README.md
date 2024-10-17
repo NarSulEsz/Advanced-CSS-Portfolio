@@ -36,6 +36,8 @@ No special instructions needed
 This is link of repository: https://github.com/NarSulEsz/Advanced-CSS-Portfolio 
 This is link of web-site itself: https://narsulesz.github.io/Advanced-CSS-Portfolio/
 
+Screenshots:
+
 https://github.com/NarSulEsz/Advanced-CSS-Portfolio/blob/main/Assets/Screenshot%202024-05-07%20134834.png
 
 https://github.com/NarSulEsz/Advanced-CSS-Portfolio/blob/main/Assets/Screenshot%202024-05-07%20134858.png
